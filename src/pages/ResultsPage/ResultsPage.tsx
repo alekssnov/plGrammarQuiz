@@ -4,11 +4,11 @@ import { Button, Card, CardContent, Stack, Typography } from "@mui/material";
 export function ResultsPage() {
     const navigate = useNavigate();
     const location = useLocation();
-    const state = (location.state ?? {}) as { total?: number; correct?: number };
+    const state = (location.state ?? {}) as { testId?: string; total?: number; correct?: number };
 
     const total = state.total ?? 0;
     const correct = state.correct ?? 0;
-
+    const testId = state.testId ?? '';
     return (
         <Card>
             <CardContent>
@@ -20,7 +20,7 @@ export function ResultsPage() {
                         Correct: <b>{correct}</b> / {total}
                     </Typography>
                     <Stack direction="row" spacing={1}>
-                        <Button fullWidth variant="contained" onClick={() => navigate("/test")}>
+                        <Button fullWidth variant="contained" onClick={() => navigate(`/t/${testId}`)}>
                             Retry
                         </Button>
                         <Button fullWidth variant="outlined" onClick={() => navigate("/")}>

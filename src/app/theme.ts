@@ -1,7 +1,8 @@
 import { createTheme } from "@mui/material/styles";
+import { lightBlue, purple } from "@mui/material/colors";
 
 export const theme = createTheme({
-    shape: { borderRadius: 16 },
+    shape: { borderRadius: 6 },
     typography: {
         fontFamily: `"Inter", system-ui, -apple-system, Segoe UI, Roboto, Arial, sans-serif`,
     },
@@ -10,7 +11,12 @@ export const theme = createTheme({
             defaultProps: { disableElevation: true },
         },
         MuiCard: {
-            styleOverrides: { root: { borderRadius: 20 } },
+            styleOverrides: { root: { borderRadius: 12 } },
         },
+    },
+    palette: {
+        primary: lightBlue,
+        secondary: purple,
+        mode: 'dark',
     },
 });

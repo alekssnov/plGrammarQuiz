@@ -1,6 +1,6 @@
 {
     "id": "pl-a1-001",
-    "title": "A1: Jestem / Jest / Są",
+    "title": "A1: Dopełniacz",
     "attempt": {
         "mode": "random",
         "count": 10
@@ -748,19 +748,6 @@
             "correctIndex": 1
         },
         {
-            "id": "q58",
-            "type": "single",
-            "prompt": "pieniądz",
-            "options": [
-                "pieniądzie",
-                "pieniądzem",
-                "pieniądzu",
-                "pieniądz",
-                "pieniądza"
-            ],
-            "correctIndex": 4
-        },
-        {
             "id": "q59",
             "type": "single",
             "prompt": "cena",
@@ -1099,19 +1086,6 @@
             "correctIndex": 0
         },
         {
-            "id": "q85",
-            "type": "single",
-            "prompt": "buty",
-            "options": [
-                "butego",
-                "butemu",
-                "butów",
-                "butym",
-                "bute"
-            ],
-            "correctIndex": 2
-        },
-        {
             "id": "q86",
             "type": "single",
             "prompt": "koszula",
@@ -1201,19 +1175,6 @@
                 "czerwoni"
             ],
             "correctIndex": 2
-        },
-        {
-            "id": "q93",
-            "type": "single",
-            "prompt": "zielony",
-            "options": [
-                "zielonym",
-                "zielonego",
-                "zielonemu",
-                "zielone",
-                "zieloni"
-            ],
-            "correctIndex": 1
         },
         {
             "id": "q94",
@@ -1431,7 +1392,7 @@
                 "początek",
                 "począteku",
                 "początku",
-                "począteka",
+                "początka",
                 "początekem"
             ],
             "correctIndex": 2
@@ -1444,8 +1405,8 @@
                 "koniecem",
                 "koniec",
                 "końca",
-                "koniecu",
-                "konieca"
+                "konieca",
+                "końcu"
             ],
             "correctIndex": 2
         }
