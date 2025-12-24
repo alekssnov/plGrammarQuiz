@@ -1,0 +1,27 @@
+[
+    {
+        "id": "pl-a1-001",
+        "title": "A1: Jestem / Jest / Są",
+        "description": "Forms of 'to be'",
+        "level": "A1",
+        "tags": [
+            "verb",
+            "present"
+        ],
+        "questionCount": 500,
+        "attempt": {
+            "mode": "random",
+            "count": 10
+        }
+    },
+    {
+        "id": "pl-a1-002",
+        "title": "A1: Numbers",
+        "level": "A1",
+        "questionCount": 120,
+        "attempt": {
+            "mode": "random",
+            "count": 10
+        }
+    }
+]

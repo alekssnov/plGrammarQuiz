@@ -1,0 +1,1453 @@
+{
+    "id": "pl-a1-001",
+    "title": "A1: Jestem / Jest / Są",
+    "attempt": {
+        "mode": "random",
+        "count": 10
+    },
+    "questions": [
+        {
+            "id": "q1",
+            "type": "single",
+            "prompt": "dom",
+            "options": [
+                "domem",
+                "domie",
+                "domu",
+                "doma",
+                "dom"
+            ],
+            "correctIndex": 2
+        },
+        {
+            "id": "q2",
+            "type": "single",
+            "prompt": "mieszkanie",
+            "options": [
+                "mieszkanią",
+                "mieszkaniu",
+                "mieszkaniem",
+                "mieszkania",
+                "mieszkanie"
+            ],
+            "correctIndex": 3
+        },
+        {
+            "id": "q3",
+            "type": "single",
+            "prompt": "pokój",
+            "options": [
+                "pokója",
+                "pokój",
+                "pokójem",
+                "pokoju",
+                "pokóju"
+            ],
+            "correctIndex": 3
+        },
+        {
+            "id": "q4",
+            "type": "single",
+            "prompt": "kuchnia",
+            "options": [
+                "kuchnio",
+                "kuchni",
+                "kuchnia",
+                "kuchnii",
+                "kuchnie"
+            ],
+            "correctIndex": 1
+        },
+        {
+            "id": "q5",
+            "type": "single",
+            "prompt": "łazienka",
+            "options": [
+                "łazienka",
+                "łazienke",
+                "łazienku",
+                "łazienko",
+                "łazienki"
+            ],
+            "correctIndex": 4
+        },
+        {
+            "id": "q6",
+            "type": "single",
+            "prompt": "drzwi",
+            "options": [
+                "drzwiemu",
+                "drzwiego",
+                "drzwim",
+                "drzwie",
+                "drzwi"
+            ],
+            "correctIndex": 4
+        },
+        {
+            "id": "q7",
+            "type": "single",
+            "prompt": "okno",
+            "options": [
+                "okna",
+                "okne",
+                "okną",
+                "okno",
+                "oknu"
+            ],
+            "correctIndex": 0
+        },
+        {
+            "id": "q8",
+            "type": "single",
+            "prompt": "stół",
+            "options": [
+                "stółem",
+                "stóła",
+                "stołu",
+                "stół",
+                "stółu"
+            ],
+            "correctIndex": 2
+        },
+        {
+            "id": "q9",
+            "type": "single",
+            "prompt": "krzesło",
+            "options": [
+                "krzesła",
+                "krzesłe",
+                "krzesło",
+                "krzesłu",
+                "krzesłą"
+            ],
+            "correctIndex": 0
+        },
+        {
+            "id": "q10",
+            "type": "single",
+            "prompt": "łóżko",
+            "options": [
+                "łóżką",
+                "łóżku",
+                "łóżko",
+                "łóżke",
+                "łóżka"
+            ],
+            "correctIndex": 4
+        },
+        {
+            "id": "q11",
+            "type": "single",
+            "prompt": "człowiek",
+            "options": [
+                "człowiekem",
+                "człowieku",
+                "człowiek",
+                "człowieka",
+                "człowiekie"
+            ],
+            "correctIndex": 3
+        },
+        {
+            "id": "q12",
+            "type": "single",
+            "prompt": "kobieta",
+            "options": [
+                "kobieta",
+                "kobiete",
+                "kobiety",
+                "kobieti",
+                "kobieto"
+            ],
+            "correctIndex": 2
+        },
+        {
+            "id": "q13",
+            "type": "single",
+            "prompt": "mężczyzna",
+            "options": [
+                "mężczyzne",
+                "mężczyzna",
+                "mężczyzno",
+                "mężczyzny",
+                "mężczyzni"
+            ],
+            "correctIndex": 3
+        },
+        {
+            "id": "q14",
+            "type": "single",
+            "prompt": "dziecko",
+            "options": [
+                "dziecka",
+                "dziecku",
+                "dziecką",
+                "dziecko",
+                "dziecke"
+            ],
+            "correctIndex": 0
+        },
+        {
+            "id": "q15",
+            "type": "single",
+            "prompt": "rodzina",
+            "options": [
+                "rodziny",
+                "rodzino",
+                "rodzini",
+                "rodzina",
+                "rodzine"
+            ],
+            "correctIndex": 0
+        },
+        {
+            "id": "q16",
+            "type": "single",
+            "prompt": "matka",
+            "options": [
+                "matka",
+                "matki",
+                "matke",
+                "matku",
+                "matko"
+            ],
+            "correctIndex": 1
+        },
+        {
+            "id": "q17",
+            "type": "single",
+            "prompt": "ojciec",
+            "options": [
+                "ojciec",
+                "ojciecu",
+                "ojcieca",
+                "ojciecem",
+                "ojca"
+            ],
+            "correctIndex": 4
+        },
+        {
+            "id": "q18",
+            "type": "single",
+            "prompt": "brat",
+            "options": [
+                "bratie",
+                "brata",
+                "bratem",
+                "bratu",
+                "brat"
+            ],
+            "correctIndex": 1
+        },
+        {
+            "id": "q19",
+            "type": "single",
+            "prompt": "siostra",
+            "options": [
+                "siostre",
+                "siostro",
+                "siostri",
+                "siostry",
+                "siostra"
+            ],
+            "correctIndex": 3
+        },
+        {
+            "id": "q20",
+            "type": "single",
+            "prompt": "pies",
+            "options": [
+                "psa",
+                "pies",
+                "piesem",
+                "piesu",
+                "piesa"
+            ],
+            "correctIndex": 0
+        },
+        {
+            "id": "q21",
+            "type": "single",
+            "prompt": "kot",
+            "options": [
+                "kotu",
+                "kota",
+                "kotem",
+                "kotie",
+                "kot"
+            ],
+            "correctIndex": 1
+        },
+        {
+            "id": "q22",
+            "type": "single",
+            "prompt": "ptak",
+            "options": [
+                "ptakem",
+                "ptakie",
+                "ptaku",
+                "ptaka",
+                "ptak"
+            ],
+            "correctIndex": 3
+        },
+        {
+            "id": "q23",
+            "type": "single",
+            "prompt": "ryba",
+            "options": [
+                "ryby",
+                "rybe",
+                "rybo",
+                "ryba",
+                "rybi"
+            ],
+            "correctIndex": 0
+        },
+        {
+            "id": "q24",
+            "type": "single",
+            "prompt": "koń",
+            "options": [
+                "konia",
+                "końom",
+                "końem",
+                "końie",
+                "końów"
+            ],
+            "correctIndex": 0
+        },
+        {
+            "id": "q25",
+            "type": "single",
+            "prompt": "krowa",
+            "options": [
+                "krowi",
+                "krowe",
+                "krowy",
+                "krowa",
+                "krowo"
+            ],
+            "correctIndex": 2
+        },
+        {
+            "id": "q26",
+            "type": "single",
+            "prompt": "dzień",
+            "options": [
+                "dzieńu",
+                "dzień",
+                "dzieńem",
+                "dnia",
+                "dzieńa"
+            ],
+            "correctIndex": 3
+        },
+        {
+            "id": "q27",
+            "type": "single",
+            "prompt": "noc",
+            "options": [
+                "nocy",
+                "noca",
+                "nocu",
+                "noc",
+                "nocem"
+            ],
+            "correctIndex": 0
+        },
+        {
+            "id": "q28",
+            "type": "single",
+            "prompt": "rano",
+            "options": [
+                "raną",
+                "rana",
+                "ranu",
+                "rano",
+                "rane"
+            ],
+            "correctIndex": 1
+        },
+        {
+            "id": "q29",
+            "type": "single",
+            "prompt": "wieczór",
+            "options": [
+                "wieczórem",
+                "wieczór",
+                "wieczóru",
+                "wieczóra",
+                "wieczoru"
+            ],
+            "correctIndex": 4
+        },
+        {
+            "id": "q30",
+            "type": "single",
+            "prompt": "tydzień",
+            "options": [
+                "tydzieńu",
+                "tydzieńa",
+                "tydzieńem",
+                "tydzień",
+                "tygodnia"
+            ],
+            "correctIndex": 4
+        },
+        {
+            "id": "q31",
+            "type": "single",
+            "prompt": "rok",
+            "options": [
+                "rokem",
+                "rok",
+                "roku",
+                "rokie",
+                "roka"
+            ],
+            "correctIndex": 2
+        },
+        {
+            "id": "q32",
+            "type": "single",
+            "prompt": "czas",
+            "options": [
+                "czasem",
+                "czasie",
+                "czasu",
+                "czas",
+                "czasa"
+            ],
+            "correctIndex": 2
+        },
+        {
+            "id": "q33",
+            "type": "single",
+            "prompt": "chleb",
+            "options": [
+                "chlebie",
+                "chlebu",
+                "chlebem",
+                "chleb",
+                "chleba"
+            ],
+            "correctIndex": 4
+        },
+        {
+            "id": "q34",
+            "type": "single",
+            "prompt": "woda",
+            "options": [
+                "wode",
+                "woda",
+                "wodo",
+                "wodi",
+                "wody"
+            ],
+            "correctIndex": 4
+        },
+        {
+            "id": "q35",
+            "type": "single",
+            "prompt": "mleko",
+            "options": [
+                "mleką",
+                "mleko",
+                "mleke",
+                "mleku",
+                "mleka"
+            ],
+            "correctIndex": 4
+        },
+        {
+            "id": "q36",
+            "type": "single",
+            "prompt": "kawa",
+            "options": [
+                "kawy",
+                "kawe",
+                "kawo",
+                "kawa",
+                "kawi"
+            ],
+            "correctIndex": 0
+        },
+        {
+            "id": "q37",
+            "type": "single",
+            "prompt": "herbata",
+            "options": [
+                "herbate",
+                "herbato",
+                "herbati",
+                "herbata",
+                "herbaty"
+            ],
+            "correctIndex": 4
+        },
+        {
+            "id": "q38",
+            "type": "single",
+            "prompt": "cukier",
+            "options": [
+                "cukiera",
+                "cukier",
+                "cukieru",
+                "cukru",
+                "cukierem"
+            ],
+            "correctIndex": 3
+        },
+        {
+            "id": "q39",
+            "type": "single",
+            "prompt": "sól",
+            "options": [
+                "sólem",
+                "sóla",
+                "soli",
+                "sól",
+                "sólu"
+            ],
+            "correctIndex": 2
+        },
+        {
+            "id": "q40",
+            "type": "single",
+            "prompt": "zupa",
+            "options": [
+                "zupi",
+                "zupe",
+                "zupy",
+                "zupa",
+                "zupo"
+            ],
+            "correctIndex": 2
+        },
+        {
+            "id": "q41",
+            "type": "single",
+            "prompt": "obiad",
+            "options": [
+                "obiad",
+                "obiadu",
+                "obiada",
+                "obiadem",
+                "obiadie"
+            ],
+            "correctIndex": 1
+        },
+        {
+            "id": "q42",
+            "type": "single",
+            "prompt": "kolacja",
+            "options": [
+                "kolacju",
+                "kolacje",
+                "kolacjo",
+                "kolacji",
+                "kolacja"
+            ],
+            "correctIndex": 3
+        },
+        {
+            "id": "q43",
+            "type": "single",
+            "prompt": "sklep",
+            "options": [
+                "sklep",
+                "sklepu",
+                "sklepie",
+                "sklepem",
+                "sklepa"
+            ],
+            "correctIndex": 1
+        },
+        {
+            "id": "q44",
+            "type": "single",
+            "prompt": "rynek",
+            "options": [
+                "ryneku",
+                "ryneka",
+                "rynku",
+                "rynek",
+                "rynekem"
+            ],
+            "correctIndex": 2
+        },
+        {
+            "id": "q45",
+            "type": "single",
+            "prompt": "restauracja",
+            "options": [
+                "restauracja",
+                "restauracji",
+                "restauracje",
+                "restauracju",
+                "restauracjo"
+            ],
+            "correctIndex": 1
+        },
+        {
+            "id": "q46",
+            "type": "single",
+            "prompt": "bar",
+            "options": [
+                "bar",
+                "barem",
+                "baru",
+                "barie",
+                "bara"
+            ],
+            "correctIndex": 2
+        },
+        {
+            "id": "q47",
+            "type": "single",
+            "prompt": "miasto",
+            "options": [
+                "miastą",
+                "miasta",
+                "miasto",
+                "miaste",
+                "miastu"
+            ],
+            "correctIndex": 1
+        },
+        {
+            "id": "q48",
+            "type": "single",
+            "prompt": "wieś",
+            "options": [
+                "wieśem",
+                "wieśa",
+                "wieś",
+                "wieśu",
+                "wsi"
+            ],
+            "correctIndex": 4
+        },
+        {
+            "id": "q49",
+            "type": "single",
+            "prompt": "ulica",
+            "options": [
+                "ulico",
+                "ulicy",
+                "ulice",
+                "ulici",
+                "ulica"
+            ],
+            "correctIndex": 1
+        },
+        {
+            "id": "q50",
+            "type": "single",
+            "prompt": "droga",
+            "options": [
+                "drogi",
+                "droga",
+                "droge",
+                "drogo",
+                "drogu"
+            ],
+            "correctIndex": 0
+        },
+        {
+            "id": "q51",
+            "type": "single",
+            "prompt": "dom",
+            "options": [
+                "domie",
+                "domem",
+                "doma",
+                "domu",
+                "dom"
+            ],
+            "correctIndex": 3
+        },
+        {
+            "id": "q52",
+            "type": "single",
+            "prompt": "szkoła",
+            "options": [
+                "szkoło",
+                "szkołe",
+                "szkoły",
+                "szkoła",
+                "szkołi"
+            ],
+            "correctIndex": 2
+        },
+        {
+            "id": "q53",
+            "type": "single",
+            "prompt": "praca",
+            "options": [
+                "praca",
+                "praci",
+                "praco",
+                "prace",
+                "pracy"
+            ],
+            "correctIndex": 4
+        },
+        {
+            "id": "q54",
+            "type": "single",
+            "prompt": "biuro",
+            "options": [
+                "biure",
+                "biura",
+                "biuru",
+                "biurą",
+                "biuro"
+            ],
+            "correctIndex": 1
+        },
+        {
+            "id": "q55",
+            "type": "single",
+            "prompt": "firma",
+            "options": [
+                "firmi",
+                "firmo",
+                "firmy",
+                "firme",
+                "firma"
+            ],
+            "correctIndex": 2
+        },
+        {
+            "id": "q56",
+            "type": "single",
+            "prompt": "kolega",
+            "options": [
+                "kolegu",
+                "kolego",
+                "kolege",
+                "kolega",
+                "kolegi"
+            ],
+            "correctIndex": 4
+        },
+        {
+            "id": "q57",
+            "type": "single",
+            "prompt": "szef",
+            "options": [
+                "szef",
+                "szefa",
+                "szefie",
+                "szefem",
+                "szefu"
+            ],
+            "correctIndex": 1
+        },
+        {
+            "id": "q58",
+            "type": "single",
+            "prompt": "pieniądz",
+            "options": [
+                "pieniądzie",
+                "pieniądzem",
+                "pieniądzu",
+                "pieniądz",
+                "pieniądza"
+            ],
+            "correctIndex": 4
+        },
+        {
+            "id": "q59",
+            "type": "single",
+            "prompt": "cena",
+            "options": [
+                "ceno",
+                "ceny",
+                "ceni",
+                "cena",
+                "cene"
+            ],
+            "correctIndex": 1
+        },
+        {
+            "id": "q60",
+            "type": "single",
+            "prompt": "konto",
+            "options": [
+                "konto",
+                "konte",
+                "kontą",
+                "konta",
+                "kontu"
+            ],
+            "correctIndex": 3
+        },
+        {
+            "id": "q61",
+            "type": "single",
+            "prompt": "bank",
+            "options": [
+                "banku",
+                "banka",
+                "bankem",
+                "bank",
+                "bankie"
+            ],
+            "correctIndex": 0
+        },
+        {
+            "id": "q62",
+            "type": "single",
+            "prompt": "telefon",
+            "options": [
+                "telefonie",
+                "telefonem",
+                "telefona",
+                "telefon",
+                "telefonu"
+            ],
+            "correctIndex": 4
+        },
+        {
+            "id": "q63",
+            "type": "single",
+            "prompt": "komputer",
+            "options": [
+                "komputeru",
+                "komputerem",
+                "komputer",
+                "komputera",
+                "komputerie"
+            ],
+            "correctIndex": 3
+        },
+        {
+            "id": "q64",
+            "type": "single",
+            "prompt": "internet",
+            "options": [
+                "internetu",
+                "internet",
+                "internetem",
+                "interneta",
+                "internetie"
+            ],
+            "correctIndex": 0
+        },
+        {
+            "id": "q65",
+            "type": "single",
+            "prompt": "telewizor",
+            "options": [
+                "telewizora",
+                "telewizoru",
+                "telewizor",
+                "telewizorem",
+                "telewizorie"
+            ],
+            "correctIndex": 0
+        },
+        {
+            "id": "q66",
+            "type": "single",
+            "prompt": "radio",
+            "options": [
+                "radią",
+                "radia",
+                "radio",
+                "radiu",
+                "radie"
+            ],
+            "correctIndex": 1
+        },
+        {
+            "id": "q67",
+            "type": "single",
+            "prompt": "samochód",
+            "options": [
+                "samochódem",
+                "samochód",
+                "samochódu",
+                "samochodu",
+                "samochóda"
+            ],
+            "correctIndex": 3
+        },
+        {
+            "id": "q68",
+            "type": "single",
+            "prompt": "autobus",
+            "options": [
+                "autobus",
+                "autobusu",
+                "autobusem",
+                "autobusa",
+                "autobusie"
+            ],
+            "correctIndex": 1
+        },
+        {
+            "id": "q69",
+            "type": "single",
+            "prompt": "tramwaj",
+            "options": [
+                "tramwaj",
+                "tramwajem",
+                "tramwajie",
+                "tramwaju",
+                "tramwaja"
+            ],
+            "correctIndex": 3
+        },
+        {
+            "id": "q70",
+            "type": "single",
+            "prompt": "pociąg",
+            "options": [
+                "pociągu",
+                "pociąg",
+                "pociągie",
+                "pociągem",
+                "pociąga"
+            ],
+            "correctIndex": 0
+        },
+        {
+            "id": "q71",
+            "type": "single",
+            "prompt": "rower",
+            "options": [
+                "roweru",
+                "rowerie",
+                "rower",
+                "rowera",
+                "rowerem"
+            ],
+            "correctIndex": 0
+        },
+        {
+            "id": "q72",
+            "type": "single",
+            "prompt": "pogoda",
+            "options": [
+                "pogody",
+                "pogodi",
+                "pogodo",
+                "pogode",
+                "pogoda"
+            ],
+            "correctIndex": 0
+        },
+        {
+            "id": "q73",
+            "type": "single",
+            "prompt": "deszcz",
+            "options": [
+                "deszczie",
+                "deszcz",
+                "deszczu",
+                "deszcza",
+                "deszczem"
+            ],
+            "correctIndex": 2
+        },
+        {
+            "id": "q74",
+            "type": "single",
+            "prompt": "śnieg",
+            "options": [
+                "śniegem",
+                "śniegie",
+                "śnieg",
+                "śniega",
+                "śniegu"
+            ],
+            "correctIndex": 4
+        },
+        {
+            "id": "q75",
+            "type": "single",
+            "prompt": "słońce",
+            "options": [
+                "słońcą",
+                "słońce",
+                "słońcu",
+                "słońca",
+                "słońcem"
+            ],
+            "correctIndex": 3
+        },
+        {
+            "id": "q76",
+            "type": "single",
+            "prompt": "wiatr",
+            "options": [
+                "wiatru",
+                "wiatra",
+                "wiatr",
+                "wiatrie",
+                "wiatrem"
+            ],
+            "correctIndex": 0
+        },
+        {
+            "id": "q77",
+            "type": "single",
+            "prompt": "ciało",
+            "options": [
+                "ciało",
+                "ciałą",
+                "ciałe",
+                "ciała",
+                "ciału"
+            ],
+            "correctIndex": 3
+        },
+        {
+            "id": "q78",
+            "type": "single",
+            "prompt": "głowa",
+            "options": [
+                "głowo",
+                "głowi",
+                "głowy",
+                "głowa",
+                "głowe"
+            ],
+            "correctIndex": 2
+        },
+        {
+            "id": "q79",
+            "type": "single",
+            "prompt": "ręka",
+            "options": [
+                "ręko",
+                "ręka",
+                "ręki",
+                "ręku",
+                "ręke"
+            ],
+            "correctIndex": 2
+        },
+        {
+            "id": "q80",
+            "type": "single",
+            "prompt": "noga",
+            "options": [
+                "noga",
+                "noge",
+                "nogi",
+                "nogu",
+                "nogo"
+            ],
+            "correctIndex": 2
+        },
+        {
+            "id": "q81",
+            "type": "single",
+            "prompt": "oko",
+            "options": [
+                "oke",
+                "oku",
+                "oko",
+                "oką",
+                "oka"
+            ],
+            "correctIndex": 4
+        },
+        {
+            "id": "q82",
+            "type": "single",
+            "prompt": "ucho",
+            "options": [
+                "uche",
+                "ucha",
+                "uchu",
+                "uchą",
+                "ucho"
+            ],
+            "correctIndex": 1
+        },
+        {
+            "id": "q83",
+            "type": "single",
+            "prompt": "nos",
+            "options": [
+                "nos",
+                "nosem",
+                "nosu",
+                "nosa",
+                "nosie"
+            ],
+            "correctIndex": 3
+        },
+        {
+            "id": "q84",
+            "type": "single",
+            "prompt": "ubranie",
+            "options": [
+                "ubrania",
+                "ubraniem",
+                "ubraniu",
+                "ubranie",
+                "ubranią"
+            ],
+            "correctIndex": 0
+        },
+        {
+            "id": "q85",
+            "type": "single",
+            "prompt": "buty",
+            "options": [
+                "butego",
+                "butemu",
+                "butów",
+                "butym",
+                "bute"
+            ],
+            "correctIndex": 2
+        },
+        {
+            "id": "q86",
+            "type": "single",
+            "prompt": "koszula",
+            "options": [
+                "koszule",
+                "koszuli",
+                "koszulu",
+                "koszulo",
+                "koszula"
+            ],
+            "correctIndex": 1
+        },
+        {
+            "id": "q87",
+            "type": "single",
+            "prompt": "spodnie",
+            "options": [
+                "spodnią",
+                "spodnia",
+                "spodniu",
+                "spodni",
+                "spodnie"
+            ],
+            "correctIndex": 3
+        },
+        {
+            "id": "q88",
+            "type": "single",
+            "prompt": "kurtka",
+            "options": [
+                "kurtko",
+                "kurtka",
+                "kurtki",
+                "kurtke",
+                "kurtku"
+            ],
+            "correctIndex": 2
+        },
+        {
+            "id": "q89",
+            "type": "single",
+            "prompt": "kolor",
+            "options": [
+                "kolorie",
+                "kolor",
+                "koloru",
+                "kolorem",
+                "kolora"
+            ],
+            "correctIndex": 2
+        },
+        {
+            "id": "q90",
+            "type": "single",
+            "prompt": "biały",
+            "options": [
+                "białi",
+                "białe",
+                "białego",
+                "białemu",
+                "białym"
+            ],
+            "correctIndex": 2
+        },
+        {
+            "id": "q91",
+            "type": "single",
+            "prompt": "czarny",
+            "options": [
+                "czarni",
+                "czarnego",
+                "czarne",
+                "czarnym",
+                "czarnemu"
+            ],
+            "correctIndex": 1
+        },
+        {
+            "id": "q92",
+            "type": "single",
+            "prompt": "czerwony",
+            "options": [
+                "czerwonym",
+                "czerwonemu",
+                "czerwonego",
+                "czerwone",
+                "czerwoni"
+            ],
+            "correctIndex": 2
+        },
+        {
+            "id": "q93",
+            "type": "single",
+            "prompt": "zielony",
+            "options": [
+                "zielonym",
+                "zielonego",
+                "zielonemu",
+                "zielone",
+                "zieloni"
+            ],
+            "correctIndex": 1
+        },
+        {
+            "id": "q94",
+            "type": "single",
+            "prompt": "problem",
+            "options": [
+                "problemem",
+                "problemie",
+                "problema",
+                "problem",
+                "problemu"
+            ],
+            "correctIndex": 4
+        },
+        {
+            "id": "q95",
+            "type": "single",
+            "prompt": "pytanie",
+            "options": [
+                "pytanią",
+                "pytanie",
+                "pytaniem",
+                "pytaniu",
+                "pytania"
+            ],
+            "correctIndex": 4
+        },
+        {
+            "id": "q96",
+            "type": "single",
+            "prompt": "odpowiedź",
+            "options": [
+                "odpowiedźa",
+                "odpowiedźu",
+                "odpowiedźem",
+                "odpowiedzi",
+                "odpowiedź"
+            ],
+            "correctIndex": 3
+        },
+        {
+            "id": "q97",
+            "type": "single",
+            "prompt": "język",
+            "options": [
+                "językem",
+                "języku",
+                "języka",
+                "językie",
+                "język"
+            ],
+            "correctIndex": 2
+        },
+        {
+            "id": "q98",
+            "type": "single",
+            "prompt": "słowo",
+            "options": [
+                "słową",
+                "słowa",
+                "słowo",
+                "słowe",
+                "słowu"
+            ],
+            "correctIndex": 1
+        },
+        {
+            "id": "q99",
+            "type": "single",
+            "prompt": "zdanie",
+            "options": [
+                "zdaniu",
+                "zdanią",
+                "zdanie",
+                "zdania",
+                "zdaniem"
+            ],
+            "correctIndex": 3
+        },
+        {
+            "id": "q100",
+            "type": "single",
+            "prompt": "litera",
+            "options": [
+                "literi",
+                "litera",
+                "litery",
+                "litero",
+                "litere"
+            ],
+            "correctIndex": 2
+        },
+        {
+            "id": "q101",
+            "type": "single",
+            "prompt": "książka",
+            "options": [
+                "książka",
+                "książku",
+                "książko",
+                "książke",
+                "książki"
+            ],
+            "correctIndex": 4
+        },
+        {
+            "id": "q102",
+            "type": "single",
+            "prompt": "zeszyt",
+            "options": [
+                "zeszytu",
+                "zeszytie",
+                "zeszyta",
+                "zeszytem",
+                "zeszyt"
+            ],
+            "correctIndex": 0
+        },
+        {
+            "id": "q103",
+            "type": "single",
+            "prompt": "długopis",
+            "options": [
+                "długopisu",
+                "długopisa",
+                "długopisem",
+                "długopis",
+                "długopisie"
+            ],
+            "correctIndex": 0
+        },
+        {
+            "id": "q104",
+            "type": "single",
+            "prompt": "imię",
+            "options": [
+                "imie",
+                "imienia",
+                "imia",
+                "imiom",
+                "imiem"
+            ],
+            "correctIndex": 1
+        },
+        {
+            "id": "q105",
+            "type": "single",
+            "prompt": "nazwisko",
+            "options": [
+                "nazwisko",
+                "nazwiske",
+                "nazwiską",
+                "nazwisku",
+                "nazwiska"
+            ],
+            "correctIndex": 4
+        },
+        {
+            "id": "q106",
+            "type": "single",
+            "prompt": "adres",
+            "options": [
+                "adresu",
+                "adres",
+                "adresem",
+                "adresa",
+                "adresie"
+            ],
+            "correctIndex": 0
+        },
+        {
+            "id": "q107",
+            "type": "single",
+            "prompt": "numer",
+            "options": [
+                "numera",
+                "numerem",
+                "numeru",
+                "numerie",
+                "numer"
+            ],
+            "correctIndex": 2
+        },
+        {
+            "id": "q108",
+            "type": "single",
+            "prompt": "czas",
+            "options": [
+                "czasie",
+                "czasu",
+                "czasem",
+                "czasa",
+                "czas"
+            ],
+            "correctIndex": 1
+        },
+        {
+            "id": "q109",
+            "type": "single",
+            "prompt": "moment",
+            "options": [
+                "momenta",
+                "momentu",
+                "momentie",
+                "moment",
+                "momentem"
+            ],
+            "correctIndex": 1
+        },
+        {
+            "id": "q110",
+            "type": "single",
+            "prompt": "początek",
+            "options": [
+                "początek",
+                "począteku",
+                "początku",
+                "począteka",
+                "początekem"
+            ],
+            "correctIndex": 2
+        },
+        {
+            "id": "q111",
+            "type": "single",
+            "prompt": "koniec",
+            "options": [
+                "koniecem",
+                "koniec",
+                "końca",
+                "koniecu",
+                "konieca"
+            ],
+            "correctIndex": 2
+        }
+    ]
+}
