@@ -16,7 +16,27 @@
     },
     {
         "id": "pl-a1-002",
-        "title": "A1: Numbers",
+        "title": "A1: Celownik",
+        "level": "A1",
+        "questionCount": 120,
+        "attempt": {
+            "mode": "random",
+            "count": 10
+        }
+    },
+    {
+        "id": "pl-a1-003",
+        "title": "A1: Biernik",
+        "level": "A1",
+        "questionCount": 120,
+        "attempt": {
+            "mode": "random",
+            "count": 10
+        }
+    },
+    {
+        "id": "pl-a1-004",
+        "title": "A1: Narzędnik",
         "level": "A1",
         "questionCount": 120,
         "attempt": {

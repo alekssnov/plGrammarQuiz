@@ -1,6 +1,6 @@
 {
-    "id": "pl-a1-001",
-    "title": "A1: Dopełniacz",
+    "id": "pl-a1-004",
+    "title": "A1: Narzędnik",
     "attempt": {
         "mode": "random",
         "count": 10
@@ -11,11 +11,11 @@
             "type": "single",
             "prompt": "dom",
             "options": [
+                "domów",
+                "doma",
                 "domem",
                 "domie",
-                "domu",
-                "doma",
-                "dom"
+                "domom"
             ],
             "correctIndex": 2
         },
@@ -24,11 +24,11 @@
             "type": "single",
             "prompt": "mieszkanie",
             "options": [
-                "mieszkanią",
-                "mieszkaniu",
-                "mieszkaniem",
+                "mieszkanie",
                 "mieszkania",
-                "mieszkanie"
+                "mieszkaniiem",
+                "mieszkaniem",
+                "mieszkaniom"
             ],
             "correctIndex": 3
         },
@@ -37,11 +37,11 @@
             "type": "single",
             "prompt": "pokój",
             "options": [
-                "pokója",
-                "pokój",
                 "pokójem",
-                "pokoju",
-                "pokóju"
+                "pokójom",
+                "pokójów",
+                "pokojem",
+                "pokójie"
             ],
             "correctIndex": 3
         },
@@ -51,7 +51,7 @@
             "prompt": "kuchnia",
             "options": [
                 "kuchnio",
-                "kuchni",
+                "kuchnią",
                 "kuchnia",
                 "kuchnii",
                 "kuchnie"
@@ -65,9 +65,22 @@
             "options": [
                 "łazienka",
                 "łazienke",
-                "łazienku",
                 "łazienko",
-                "łazienki"
+                "łazienki",
+                "łazienką"
+            ],
+            "correctIndex": 4
+        },
+        {
+            "id": "q6",
+            "type": "single",
+            "prompt": "drzwi",
+            "options": [
+                "drzwiom",
+                "drzwiemu",
+                "drzwiego",
+                "drzwiach",
+                "drzwiami"
             ],
             "correctIndex": 4
         },
@@ -76,11 +89,11 @@
             "type": "single",
             "prompt": "okno",
             "options": [
+                "oknem",
+                "oknom",
+                "okniem",
                 "okna",
-                "okne",
-                "okną",
-                "okno",
-                "oknu"
+                "okne"
             ],
             "correctIndex": 0
         },
@@ -89,11 +102,11 @@
             "type": "single",
             "prompt": "stół",
             "options": [
+                "stółów",
                 "stółem",
-                "stóła",
-                "stołu",
-                "stół",
-                "stółu"
+                "stołem",
+                "stółom",
+                "stółie"
             ],
             "correctIndex": 2
         },
@@ -102,11 +115,11 @@
             "type": "single",
             "prompt": "krzesło",
             "options": [
+                "krzesłem",
+                "krzesłom",
                 "krzesła",
                 "krzesłe",
-                "krzesło",
-                "krzesłu",
-                "krzesłą"
+                "krzesłiem"
             ],
             "correctIndex": 0
         },
@@ -115,11 +128,11 @@
             "type": "single",
             "prompt": "łóżko",
             "options": [
-                "łóżką",
-                "łóżku",
-                "łóżko",
                 "łóżke",
-                "łóżka"
+                "łóżka",
+                "łóżkom",
+                "łóżkem",
+                "łóżkiem"
             ],
             "correctIndex": 4
         },
@@ -129,9 +142,9 @@
             "prompt": "człowiek",
             "options": [
                 "człowiekem",
-                "człowieku",
-                "człowiek",
-                "człowieka",
+                "człowiekami",
+                "człowiekowi",
+                "człowiekiem",
                 "człowiekie"
             ],
             "correctIndex": 3
@@ -143,7 +156,7 @@
             "options": [
                 "kobieta",
                 "kobiete",
-                "kobiety",
+                "kobietą",
                 "kobieti",
                 "kobieto"
             ],
@@ -157,7 +170,7 @@
                 "mężczyzne",
                 "mężczyzna",
                 "mężczyzno",
-                "mężczyzny",
+                "mężczyzną",
                 "mężczyzni"
             ],
             "correctIndex": 3
@@ -167,11 +180,11 @@
             "type": "single",
             "prompt": "dziecko",
             "options": [
+                "dzieckiem",
                 "dziecka",
-                "dziecku",
-                "dziecką",
-                "dziecko",
-                "dziecke"
+                "dziecke",
+                "dzieckom",
+                "dzieckem"
             ],
             "correctIndex": 0
         },
@@ -180,7 +193,7 @@
             "type": "single",
             "prompt": "rodzina",
             "options": [
-                "rodziny",
+                "rodziną",
                 "rodzino",
                 "rodzini",
                 "rodzina",
@@ -194,10 +207,10 @@
             "prompt": "matka",
             "options": [
                 "matka",
-                "matki",
+                "matką",
                 "matke",
-                "matku",
-                "matko"
+                "matko",
+                "matki"
             ],
             "correctIndex": 1
         },
@@ -210,7 +223,7 @@
                 "ojciecu",
                 "ojcieca",
                 "ojciecem",
-                "ojca"
+                "ojcem"
             ],
             "correctIndex": 4
         },
@@ -219,11 +232,11 @@
             "type": "single",
             "prompt": "brat",
             "options": [
-                "bratie",
                 "brata",
                 "bratem",
-                "bratu",
-                "brat"
+                "bratów",
+                "bratie",
+                "bratom"
             ],
             "correctIndex": 1
         },
@@ -235,7 +248,7 @@
                 "siostre",
                 "siostro",
                 "siostri",
-                "siostry",
+                "siostrą",
                 "siostra"
             ],
             "correctIndex": 3
@@ -245,7 +258,7 @@
             "type": "single",
             "prompt": "pies",
             "options": [
-                "psa",
+                "psem",
                 "pies",
                 "piesem",
                 "piesu",
@@ -258,11 +271,11 @@
             "type": "single",
             "prompt": "kot",
             "options": [
-                "kotu",
-                "kota",
-                "kotem",
                 "kotie",
-                "kot"
+                "kotem",
+                "kotów",
+                "kota",
+                "kotom"
             ],
             "correctIndex": 1
         },
@@ -273,9 +286,9 @@
             "options": [
                 "ptakem",
                 "ptakie",
-                "ptaku",
-                "ptaka",
-                "ptak"
+                "ptakami",
+                "ptakiem",
+                "ptakowi"
             ],
             "correctIndex": 3
         },
@@ -284,7 +297,7 @@
             "type": "single",
             "prompt": "ryba",
             "options": [
-                "ryby",
+                "rybą",
                 "rybe",
                 "rybo",
                 "ryba",
@@ -297,11 +310,11 @@
             "type": "single",
             "prompt": "koń",
             "options": [
-                "konia",
-                "końom",
+                "koniem",
                 "końem",
-                "końie",
-                "końów"
+                "końami",
+                "końowi",
+                "końie"
             ],
             "correctIndex": 0
         },
@@ -312,7 +325,7 @@
             "options": [
                 "krowi",
                 "krowe",
-                "krowy",
+                "krową",
                 "krowa",
                 "krowo"
             ],
@@ -326,8 +339,7 @@
                 "dzieńu",
                 "dzień",
                 "dzieńem",
-                "dnia",
-                "dniu",
+                "dniem",
                 "dzieńa"
             ],
             "correctIndex": 3
@@ -337,7 +349,7 @@
             "type": "single",
             "prompt": "noc",
             "options": [
-                "nocy",
+                "nocą",
                 "noca",
                 "nocu",
                 "noc",
@@ -350,11 +362,11 @@
             "type": "single",
             "prompt": "rano",
             "options": [
-                "raną",
+                "raniem",
+                "ranem",
+                "rane",
                 "rana",
-                "ranu",
-                "rano",
-                "rane"
+                "ranom"
             ],
             "correctIndex": 1
         },
@@ -363,11 +375,11 @@
             "type": "single",
             "prompt": "wieczór",
             "options": [
+                "wieczórów",
+                "wieczórom",
+                "wieczórie",
                 "wieczórem",
-                "wieczór",
-                "wieczóru",
-                "wieczóra",
-                "wieczoru"
+                "wieczorem"
             ],
             "correctIndex": 4
         },
@@ -376,12 +388,11 @@
             "type": "single",
             "prompt": "tydzień",
             "options": [
-                "tydzieńu",
-                "tydzieńa",
+                "tydzieńie",
                 "tydzieńem",
-                "tydzień",
-                "tygodnia",
-                "tygodniu"
+                "tydzieńów",
+                "tydzieńom",
+                "tygodniem"
             ],
             "correctIndex": 4
         },
@@ -391,10 +402,10 @@
             "prompt": "rok",
             "options": [
                 "rokem",
-                "rok",
-                "roku",
+                "rokowi",
+                "rokiem",
                 "rokie",
-                "roka"
+                "rokami"
             ],
             "correctIndex": 2
         },
@@ -403,11 +414,11 @@
             "type": "single",
             "prompt": "czas",
             "options": [
+                "czasów",
+                "czasa",
                 "czasem",
-                "czasie",
-                "czasu",
-                "czas",
-                "czasa"
+                "czasom",
+                "czasie"
             ],
             "correctIndex": 2
         },
@@ -416,11 +427,11 @@
             "type": "single",
             "prompt": "chleb",
             "options": [
+                "chleba",
                 "chlebie",
-                "chlebu",
-                "chlebem",
-                "chleb",
-                "chleba"
+                "chlebów",
+                "chlebom",
+                "chlebem"
             ],
             "correctIndex": 4
         },
@@ -433,7 +444,7 @@
                 "woda",
                 "wodo",
                 "wodi",
-                "wody"
+                "wodą"
             ],
             "correctIndex": 4
         },
@@ -442,11 +453,11 @@
             "type": "single",
             "prompt": "mleko",
             "options": [
-                "mleką",
-                "mleko",
                 "mleke",
-                "mleku",
-                "mleka"
+                "mlekom",
+                "mlekem",
+                "mleka",
+                "mlekiem"
             ],
             "correctIndex": 4
         },
@@ -455,7 +466,7 @@
             "type": "single",
             "prompt": "kawa",
             "options": [
-                "kawy",
+                "kawą",
                 "kawe",
                 "kawo",
                 "kawa",
@@ -472,7 +483,7 @@
                 "herbato",
                 "herbati",
                 "herbata",
-                "herbaty"
+                "herbatą"
             ],
             "correctIndex": 4
         },
@@ -484,7 +495,7 @@
                 "cukiera",
                 "cukier",
                 "cukieru",
-                "cukru",
+                "cukrem",
                 "cukierem"
             ],
             "correctIndex": 3
@@ -496,7 +507,7 @@
             "options": [
                 "sólem",
                 "sóla",
-                "soli",
+                "solą",
                 "sól",
                 "sólu"
             ],
@@ -509,7 +520,7 @@
             "options": [
                 "zupi",
                 "zupe",
-                "zupy",
+                "zupą",
                 "zupa",
                 "zupo"
             ],
@@ -520,11 +531,11 @@
             "type": "single",
             "prompt": "obiad",
             "options": [
-                "obiad",
-                "obiadu",
-                "obiada",
+                "obiadom",
                 "obiadem",
-                "obiadie"
+                "obiadie",
+                "obiadów",
+                "obiada"
             ],
             "correctIndex": 1
         },
@@ -533,10 +544,10 @@
             "type": "single",
             "prompt": "kolacja",
             "options": [
-                "kolacju",
-                "kolacje",
                 "kolacjo",
+                "kolacje",
                 "kolacji",
+                "kolacją",
                 "kolacja"
             ],
             "correctIndex": 3
@@ -546,11 +557,11 @@
             "type": "single",
             "prompt": "sklep",
             "options": [
-                "sklep",
-                "sklepu",
-                "sklepie",
+                "sklepom",
                 "sklepem",
-                "sklepa"
+                "sklepa",
+                "sklepów",
+                "sklepie"
             ],
             "correctIndex": 1
         },
@@ -559,11 +570,11 @@
             "type": "single",
             "prompt": "rynek",
             "options": [
-                "ryneku",
-                "ryneka",
-                "rynku",
-                "rynek",
-                "rynekem"
+                "rynekom",
+                "rynekie",
+                "rynkiem",
+                "rynekem",
+                "ryneków"
             ],
             "correctIndex": 2
         },
@@ -573,10 +584,10 @@
             "prompt": "restauracja",
             "options": [
                 "restauracja",
-                "restauracji",
+                "restauracją",
                 "restauracje",
-                "restauracju",
-                "restauracjo"
+                "restauracjo",
+                "restauracji"
             ],
             "correctIndex": 1
         },
@@ -585,11 +596,11 @@
             "type": "single",
             "prompt": "bar",
             "options": [
-                "bar",
+                "barom",
+                "barów",
                 "barem",
-                "baru",
-                "barie",
-                "bara"
+                "bara",
+                "barie"
             ],
             "correctIndex": 2
         },
@@ -598,11 +609,11 @@
             "type": "single",
             "prompt": "miasto",
             "options": [
-                "miastą",
+                "miastiem",
+                "miastem",
                 "miasta",
-                "miasto",
-                "miaste",
-                "miastu"
+                "miastom",
+                "miaste"
             ],
             "correctIndex": 1
         },
@@ -615,7 +626,7 @@
                 "wieśa",
                 "wieś",
                 "wieśu",
-                "wsi"
+                "wsią"
             ],
             "correctIndex": 4
         },
@@ -625,7 +636,7 @@
             "prompt": "ulica",
             "options": [
                 "ulico",
-                "ulicy",
+                "ulicą",
                 "ulice",
                 "ulici",
                 "ulica"
@@ -637,11 +648,11 @@
             "type": "single",
             "prompt": "droga",
             "options": [
-                "drogi",
+                "drogą",
                 "droga",
                 "droge",
-                "drogo",
-                "drogu"
+                "drogi",
+                "drogo"
             ],
             "correctIndex": 0
         },
@@ -650,11 +661,11 @@
             "type": "single",
             "prompt": "dom",
             "options": [
+                "doma",
+                "domów",
                 "domie",
                 "domem",
-                "doma",
-                "domu",
-                "dom"
+                "domom"
             ],
             "correctIndex": 3
         },
@@ -665,7 +676,7 @@
             "options": [
                 "szkoło",
                 "szkołe",
-                "szkoły",
+                "szkołą",
                 "szkoła",
                 "szkołi"
             ],
@@ -680,7 +691,7 @@
                 "praci",
                 "praco",
                 "prace",
-                "pracy"
+                "pracą"
             ],
             "correctIndex": 4
         },
@@ -689,11 +700,11 @@
             "type": "single",
             "prompt": "biuro",
             "options": [
+                "biurom",
+                "biurem",
                 "biure",
-                "biura",
-                "biuru",
-                "biurą",
-                "biuro"
+                "biuriem",
+                "biura"
             ],
             "correctIndex": 1
         },
@@ -704,7 +715,7 @@
             "options": [
                 "firmi",
                 "firmo",
-                "firmy",
+                "firmą",
                 "firme",
                 "firma"
             ],
@@ -715,11 +726,11 @@
             "type": "single",
             "prompt": "kolega",
             "options": [
-                "kolegu",
                 "kolego",
+                "kolegi",
                 "kolege",
                 "kolega",
-                "kolegi"
+                "kolegą"
             ],
             "correctIndex": 4
         },
@@ -728,13 +739,26 @@
             "type": "single",
             "prompt": "szef",
             "options": [
-                "szef",
-                "szefa",
-                "szefie",
+                "szefom",
                 "szefem",
-                "szefu"
+                "szefa",
+                "szefów",
+                "szefie"
             ],
             "correctIndex": 1
+        },
+        {
+            "id": "q58",
+            "type": "single",
+            "prompt": "pieniądz",
+            "options": [
+                "pieniądza",
+                "pieniądzów",
+                "pieniądzie",
+                "pieniądzom",
+                "pieniądzem"
+            ],
+            "correctIndex": 4
         },
         {
             "id": "q59",
@@ -742,7 +766,7 @@
             "prompt": "cena",
             "options": [
                 "ceno",
-                "ceny",
+                "ceną",
                 "ceni",
                 "cena",
                 "cene"
@@ -754,11 +778,11 @@
             "type": "single",
             "prompt": "konto",
             "options": [
-                "konto",
-                "konte",
-                "kontą",
                 "konta",
-                "kontu"
+                "kontom",
+                "kontiem",
+                "kontem",
+                "konte"
             ],
             "correctIndex": 3
         },
@@ -767,10 +791,10 @@
             "type": "single",
             "prompt": "bank",
             "options": [
-                "banku",
-                "banka",
+                "bankiem",
+                "bankami",
                 "bankem",
-                "bank",
+                "bankowi",
                 "bankie"
             ],
             "correctIndex": 0
@@ -780,11 +804,11 @@
             "type": "single",
             "prompt": "telefon",
             "options": [
-                "telefonie",
-                "telefonem",
                 "telefona",
-                "telefon",
-                "telefonu"
+                "telefonów",
+                "telefonie",
+                "telefonom",
+                "telefonem"
             ],
             "correctIndex": 4
         },
@@ -793,11 +817,11 @@
             "type": "single",
             "prompt": "komputer",
             "options": [
-                "komputeru",
+                "komputerie",
+                "komputerów",
+                "komputerom",
                 "komputerem",
-                "komputer",
-                "komputera",
-                "komputerie"
+                "komputera"
             ],
             "correctIndex": 3
         },
@@ -806,11 +830,11 @@
             "type": "single",
             "prompt": "internet",
             "options": [
-                "internetu",
-                "internet",
                 "internetem",
-                "interneta",
-                "internetie"
+                "internetom",
+                "internetów",
+                "internetie",
+                "interneta"
             ],
             "correctIndex": 0
         },
@@ -819,11 +843,11 @@
             "type": "single",
             "prompt": "telewizor",
             "options": [
-                "telewizora",
-                "telewizoru",
-                "telewizor",
                 "telewizorem",
-                "telewizorie"
+                "telewizorie",
+                "telewizorom",
+                "telewizorów",
+                "telewizora"
             ],
             "correctIndex": 0
         },
@@ -832,11 +856,11 @@
             "type": "single",
             "prompt": "radio",
             "options": [
-                "radią",
+                "radiiem",
+                "radiem",
                 "radia",
-                "radio",
-                "radiu",
-                "radie"
+                "radie",
+                "radiom"
             ],
             "correctIndex": 1
         },
@@ -845,11 +869,11 @@
             "type": "single",
             "prompt": "samochód",
             "options": [
-                "samochódem",
-                "samochód",
-                "samochódu",
-                "samochodu",
-                "samochóda"
+                "samochódów",
+                "samochódom",
+                "samochódie",
+                "samochodem",
+                "samochódem"
             ],
             "correctIndex": 3
         },
@@ -858,11 +882,11 @@
             "type": "single",
             "prompt": "autobus",
             "options": [
-                "autobus",
-                "autobusu",
+                "autobusom",
                 "autobusem",
-                "autobusa",
-                "autobusie"
+                "autobusów",
+                "autobusie",
+                "autobusa"
             ],
             "correctIndex": 1
         },
@@ -871,11 +895,11 @@
             "type": "single",
             "prompt": "tramwaj",
             "options": [
-                "tramwaj",
+                "tramwajom",
+                "tramwajów",
+                "tramwaja",
                 "tramwajem",
-                "tramwajie",
-                "tramwaju",
-                "tramwaja"
+                "tramwajie"
             ],
             "correctIndex": 3
         },
@@ -884,11 +908,11 @@
             "type": "single",
             "prompt": "pociąg",
             "options": [
-                "pociągu",
-                "pociąg",
+                "pociągiem",
+                "pociągowi",
                 "pociągie",
                 "pociągem",
-                "pociąga"
+                "pociągami"
             ],
             "correctIndex": 0
         },
@@ -897,11 +921,11 @@
             "type": "single",
             "prompt": "rower",
             "options": [
-                "roweru",
-                "rowerie",
-                "rower",
+                "rowerem",
                 "rowera",
-                "rowerem"
+                "rowerom",
+                "rowerie",
+                "rowerów"
             ],
             "correctIndex": 0
         },
@@ -910,7 +934,7 @@
             "type": "single",
             "prompt": "pogoda",
             "options": [
-                "pogody",
+                "pogodą",
                 "pogodi",
                 "pogodo",
                 "pogode",
@@ -923,11 +947,11 @@
             "type": "single",
             "prompt": "deszcz",
             "options": [
-                "deszczie",
-                "deszcz",
-                "deszczu",
                 "deszcza",
-                "deszczem"
+                "deszczom",
+                "deszczem",
+                "deszczie",
+                "deszczów"
             ],
             "correctIndex": 2
         },
@@ -938,9 +962,9 @@
             "options": [
                 "śniegem",
                 "śniegie",
-                "śnieg",
-                "śniega",
-                "śniegu"
+                "śniegowi",
+                "śniegami",
+                "śniegiem"
             ],
             "correctIndex": 4
         },
@@ -949,11 +973,11 @@
             "type": "single",
             "prompt": "słońce",
             "options": [
-                "słońcą",
                 "słońce",
-                "słońcu",
+                "słońcom",
                 "słońca",
-                "słońcem"
+                "słońcem",
+                "słońciem"
             ],
             "correctIndex": 3
         },
@@ -962,11 +986,11 @@
             "type": "single",
             "prompt": "wiatr",
             "options": [
-                "wiatru",
-                "wiatra",
-                "wiatr",
+                "wiatrem",
                 "wiatrie",
-                "wiatrem"
+                "wiatrom",
+                "wiatra",
+                "wiatrów"
             ],
             "correctIndex": 0
         },
@@ -975,11 +999,11 @@
             "type": "single",
             "prompt": "ciało",
             "options": [
-                "ciało",
-                "ciałą",
-                "ciałe",
                 "ciała",
-                "ciału"
+                "ciałiem",
+                "ciałom",
+                "ciałem",
+                "ciałe"
             ],
             "correctIndex": 3
         },
@@ -990,7 +1014,7 @@
             "options": [
                 "głowo",
                 "głowi",
-                "głowy",
+                "głową",
                 "głowa",
                 "głowe"
             ],
@@ -1001,10 +1025,10 @@
             "type": "single",
             "prompt": "ręka",
             "options": [
-                "ręko",
-                "ręka",
                 "ręki",
-                "ręku",
+                "ręka",
+                "ręką",
+                "ręko",
                 "ręke"
             ],
             "correctIndex": 2
@@ -1016,9 +1040,9 @@
             "options": [
                 "noga",
                 "noge",
-                "nogi",
-                "nogu",
-                "nogo"
+                "nogą",
+                "nogo",
+                "nogi"
             ],
             "correctIndex": 2
         },
@@ -1027,11 +1051,11 @@
             "type": "single",
             "prompt": "oko",
             "options": [
+                "okem",
+                "oka",
+                "okom",
                 "oke",
-                "oku",
-                "oko",
-                "oką",
-                "oka"
+                "okiem"
             ],
             "correctIndex": 4
         },
@@ -1040,11 +1064,11 @@
             "type": "single",
             "prompt": "ucho",
             "options": [
+                "uchom",
+                "uchem",
                 "uche",
-                "ucha",
-                "uchu",
-                "uchą",
-                "ucho"
+                "uchiem",
+                "ucha"
             ],
             "correctIndex": 1
         },
@@ -1053,11 +1077,11 @@
             "type": "single",
             "prompt": "nos",
             "options": [
-                "nos",
+                "nosom",
+                "nosów",
+                "nosie",
                 "nosem",
-                "nosu",
-                "nosa",
-                "nosie"
+                "nosa"
             ],
             "correctIndex": 3
         },
@@ -1066,13 +1090,26 @@
             "type": "single",
             "prompt": "ubranie",
             "options": [
-                "ubrania",
                 "ubraniem",
-                "ubraniu",
-                "ubranie",
-                "ubranią"
+                "ubraniiem",
+                "ubrania",
+                "ubraniom",
+                "ubranie"
             ],
             "correctIndex": 0
+        },
+        {
+            "id": "q85",
+            "type": "single",
+            "prompt": "buty",
+            "options": [
+                "butyom",
+                "butyów",
+                "butami",
+                "butego",
+                "butemu"
+            ],
+            "correctIndex": 2
         },
         {
             "id": "q86",
@@ -1080,9 +1117,9 @@
             "prompt": "koszula",
             "options": [
                 "koszule",
-                "koszuli",
-                "koszulu",
+                "koszulą",
                 "koszulo",
+                "koszuli",
                 "koszula"
             ],
             "correctIndex": 1
@@ -1092,11 +1129,11 @@
             "type": "single",
             "prompt": "spodnie",
             "options": [
-                "spodnią",
-                "spodnia",
-                "spodniu",
-                "spodni",
-                "spodnie"
+                "spodnieach",
+                "spodnieom",
+                "spodniiem",
+                "spodniami",
+                "spodnieów"
             ],
             "correctIndex": 3
         },
@@ -1105,11 +1142,11 @@
             "type": "single",
             "prompt": "kurtka",
             "options": [
-                "kurtko",
-                "kurtka",
                 "kurtki",
+                "kurtka",
+                "kurtką",
                 "kurtke",
-                "kurtku"
+                "kurtko"
             ],
             "correctIndex": 2
         },
@@ -1118,11 +1155,11 @@
             "type": "single",
             "prompt": "kolor",
             "options": [
-                "kolorie",
-                "kolor",
-                "koloru",
+                "kolora",
+                "kolorom",
                 "kolorem",
-                "kolora"
+                "kolorów",
+                "kolorie"
             ],
             "correctIndex": 2
         },
@@ -1132,10 +1169,10 @@
             "prompt": "biały",
             "options": [
                 "białi",
-                "białe",
-                "białego",
                 "białemu",
-                "białym"
+                "białym",
+                "białe",
+                "białego"
             ],
             "correctIndex": 2
         },
@@ -1145,10 +1182,36 @@
             "prompt": "czarny",
             "options": [
                 "czarni",
-                "czarnego",
-                "czarne",
                 "czarnym",
-                "czarnemu"
+                "czarnemu",
+                "czarnego",
+                "czarne"
+            ],
+            "correctIndex": 1
+        },
+        {
+            "id": "q92",
+            "type": "single",
+            "prompt": "czerwony",
+            "options": [
+                "czerwonego",
+                "czerwone",
+                "czerwonym",
+                "czerwonemu",
+                "czerwoni"
+            ],
+            "correctIndex": 2
+        },
+        {
+            "id": "q93",
+            "type": "single",
+            "prompt": "zielony",
+            "options": [
+                "zielonego",
+                "zielonym",
+                "zielone",
+                "zielonemu",
+                "zieloni"
             ],
             "correctIndex": 1
         },
@@ -1157,11 +1220,11 @@
             "type": "single",
             "prompt": "problem",
             "options": [
-                "problemem",
-                "problemie",
+                "problemów",
                 "problema",
-                "problem",
-                "problemu"
+                "problemie",
+                "problemom",
+                "problemem"
             ],
             "correctIndex": 4
         },
@@ -1170,11 +1233,11 @@
             "type": "single",
             "prompt": "pytanie",
             "options": [
-                "pytanią",
                 "pytanie",
-                "pytaniem",
-                "pytaniu",
-                "pytania"
+                "pytaniom",
+                "pytaniiem",
+                "pytania",
+                "pytaniem"
             ],
             "correctIndex": 4
         },
@@ -1183,11 +1246,11 @@
             "type": "single",
             "prompt": "odpowiedź",
             "options": [
-                "odpowiedźa",
-                "odpowiedźu",
                 "odpowiedźem",
-                "odpowiedzi",
-                "odpowiedź"
+                "odpowiedźie",
+                "odpowiedźów",
+                "odpowiedzią",
+                "odpowiedźom"
             ],
             "correctIndex": 3
         },
@@ -1197,10 +1260,10 @@
             "prompt": "język",
             "options": [
                 "językem",
-                "języku",
-                "języka",
+                "językami",
+                "językiem",
                 "językie",
-                "język"
+                "językowi"
             ],
             "correctIndex": 2
         },
@@ -1209,11 +1272,11 @@
             "type": "single",
             "prompt": "słowo",
             "options": [
-                "słową",
+                "słowiem",
+                "słowem",
                 "słowa",
-                "słowo",
-                "słowe",
-                "słowu"
+                "słowom",
+                "słowe"
             ],
             "correctIndex": 1
         },
@@ -1222,11 +1285,11 @@
             "type": "single",
             "prompt": "zdanie",
             "options": [
-                "zdaniu",
-                "zdanią",
-                "zdanie",
                 "zdania",
-                "zdaniem"
+                "zdanie",
+                "zdaniom",
+                "zdaniem",
+                "zdaniiem"
             ],
             "correctIndex": 3
         },
@@ -1237,7 +1300,7 @@
             "options": [
                 "literi",
                 "litera",
-                "litery",
+                "literą",
                 "litero",
                 "litere"
             ],
@@ -1249,10 +1312,10 @@
             "prompt": "książka",
             "options": [
                 "książka",
-                "książku",
                 "książko",
+                "książki",
                 "książke",
-                "książki"
+                "książką"
             ],
             "correctIndex": 4
         },
@@ -1261,11 +1324,11 @@
             "type": "single",
             "prompt": "zeszyt",
             "options": [
-                "zeszytu",
-                "zeszytie",
-                "zeszyta",
                 "zeszytem",
-                "zeszyt"
+                "zeszyta",
+                "zeszytie",
+                "zeszytów",
+                "zeszytom"
             ],
             "correctIndex": 0
         },
@@ -1274,11 +1337,11 @@
             "type": "single",
             "prompt": "długopis",
             "options": [
-                "długopisu",
-                "długopisa",
                 "długopisem",
-                "długopis",
-                "długopisie"
+                "długopisie",
+                "długopisów",
+                "długopisom",
+                "długopisa"
             ],
             "correctIndex": 0
         },
@@ -1287,11 +1350,11 @@
             "type": "single",
             "prompt": "imię",
             "options": [
-                "imie",
-                "imienia",
                 "imia",
+                "imieniem",
                 "imiom",
-                "imiem"
+                "imiem",
+                "imiiem"
             ],
             "correctIndex": 1
         },
@@ -1300,11 +1363,11 @@
             "type": "single",
             "prompt": "nazwisko",
             "options": [
-                "nazwisko",
+                "nazwiskom",
+                "nazwiskem",
                 "nazwiske",
-                "nazwiską",
-                "nazwisku",
-                "nazwiska"
+                "nazwiska",
+                "nazwiskiem"
             ],
             "correctIndex": 4
         },
@@ -1313,11 +1376,11 @@
             "type": "single",
             "prompt": "adres",
             "options": [
-                "adresu",
-                "adres",
                 "adresem",
-                "adresa",
-                "adresie"
+                "adresom",
+                "adresów",
+                "adresie",
+                "adresa"
             ],
             "correctIndex": 0
         },
@@ -1326,11 +1389,11 @@
             "type": "single",
             "prompt": "numer",
             "options": [
-                "numera",
-                "numerem",
-                "numeru",
                 "numerie",
-                "numer"
+                "numerów",
+                "numerem",
+                "numera",
+                "numerom"
             ],
             "correctIndex": 2
         },
@@ -1339,11 +1402,11 @@
             "type": "single",
             "prompt": "czas",
             "options": [
-                "czasie",
-                "czasu",
-                "czasem",
                 "czasa",
-                "czas"
+                "czasem",
+                "czasów",
+                "czasie",
+                "czasom"
             ],
             "correctIndex": 1
         },
@@ -1352,11 +1415,11 @@
             "type": "single",
             "prompt": "moment",
             "options": [
-                "momenta",
-                "momentu",
                 "momentie",
-                "moment",
-                "momentem"
+                "momentem",
+                "momenta",
+                "momentom",
+                "momentów"
             ],
             "correctIndex": 1
         },
@@ -1365,11 +1428,11 @@
             "type": "single",
             "prompt": "początek",
             "options": [
-                "początek",
-                "począteku",
-                "początku",
-                "początka",
-                "początekem"
+                "początekem",
+                "początekom",
+                "początkiem",
+                "początekie",
+                "począteków"
             ],
             "correctIndex": 2
         },
@@ -1380,9 +1443,9 @@
             "options": [
                 "koniecem",
                 "koniec",
-                "końca",
-                "konieca",
-                "końcu"
+                "końcem",
+                "koniecu",
+                "konieca"
             ],
             "correctIndex": 2
         }
